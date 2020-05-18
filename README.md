@@ -75,7 +75,15 @@ En el caso de que el combustible no sea el sufuciente para recorrer los kilometr
  
  **Equilibrados**: Pueden atacar, defender o contraatacar. Además su característica más sobresaliente 
  es que pueden cambiar la estrategia incluso en el medio del partido.
-   
+ 
+ ## 5 - Dumb tv
+   DumbTV nos contrató para mejorar la performance de su control remoto 
+ya que muchos clientes se quejan de lo lentas que son sus Televisores. 
+El código del sistema tiene una Television que maneja las acciones básicas
+ de encender, apagar, silenciar, bajar y subir volumen.DumbTV nos contrató 
+ para mejorar la performance de su control remoto ya que muchos clientes se 
+ quejan de lo lentas que son sus Televisores. El código del sistema tiene una Television 
+ que maneja las acciones básicas de encender, apagar, silenciar, bajar y subir volumen.
 
 
 
