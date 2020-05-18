@@ -54,5 +54,28 @@ Los permiten avanzar indicandoles la cantidad de kilometros a recorrer. Al avanz
 
 En el caso de que el combustible no sea el sufuciente para recorrer los kilometros solicitados, el auto avanzare hasta donde le alcance el combustible, actualizara sus atributos según corresponde (combustible y kilometraje) e informara con un error que no pudo completa el recorrido solicitado.
 
+## 4 - Fulbito Manager 2
+
+ Nos piden modelar directores técnicos dentro de un juego de futbol.
+ En nuestro modelo nuestros entrenadores tienen que tener un nombre, una edad,
+ y un método darIndicacion() que devuelva un String con la estrategia a llevar acabo
+ estas pueden ser:
+ 
+ **atacar** : "Vamos Todos al Ataque"
+ 
+ **contraatacar**: "Nos defendemos y cuando el otro equipo esta mal parado atacamos nosotros"
+ 
+ **defender**: "Nos metemos todos al lado de nuestro arquero muchachos"
+ 
+ En nuestro juego se pueden elegir 3 tipos de directores tecnicos: 
+ 
+ **Bilardistas**: solo saben contraatacar.
+ 
+ **Menotistas**: solo saben atacar.
+ 
+ **Equilibrados**: Pueden atacar, defender o contraatacar. Además su característica más sobresaliente 
+ es que pueden cambiar la estrategia incluso en el medio del partido.
+   
+
 
 
