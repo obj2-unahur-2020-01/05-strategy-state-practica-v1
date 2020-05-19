@@ -84,6 +84,7 @@ El código del sistema tiene una Television que maneja las acciones básicas
  para mejorar la performance de su control remoto ya que muchos clientes se 
  quejan de lo lentas que son sus Televisores. El código del sistema tiene una Television 
  que maneja las acciones básicas de encender, apagar, silenciar, bajar y subir volumen.
+ **como podemos mejorar dumb tv?**
 
 
 
